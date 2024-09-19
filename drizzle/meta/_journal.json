@@ -1,0 +1,34 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1723721971857,
+      "tag": "0000_zippy_karen_page",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1723723043088,
+      "tag": "0001_tough_centennial",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1724926906401,
+      "tag": "0002_overconfident_cyclops",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1725262481862,
+      "tag": "0003_even_juggernaut",
+      "breakpoints": true
+    }
+  ]
+}
